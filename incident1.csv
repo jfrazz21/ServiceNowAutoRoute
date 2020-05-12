@@ -1,0 +1,117 @@
+number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by,sys_created_on
+INC0010068,5/5/2020 11:49,I forgot to save my Word file,Abel Tuter,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 11:49,admin,5/5/2020 11:49
+INC0010067,5/5/2020 11:48,My Excell file is corrupted,Annabelle Coger,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 11:49,admin,5/5/2020 11:49
+INC0010066,5/5/2020 11:46,My Power point file is corrupted ,Sam Sorokin,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 11:47,admin,5/5/2020 11:47
+INC0000031,10/25/2019 17:18,Need help with Remedy. Can we configure UI?,Joe Employee,1 - Critical,In Progress,Inquiry / Help,Software,David Loo,5/5/2020 11:46,system,11/22/2019 16:18
+INC0010065,5/5/2020 11:36,My hdmi port is broken ,Athena Fontanilla,5 - Planning,New,Hardware,Service Desk,,5/5/2020 11:46,admin,5/5/2020 11:46
+INC0010061,5/5/2020 11:30,Word file corrupted,Athena Fontanilla,5 - Planning,New,Software,Software,,5/5/2020 11:46,admin,5/5/2020 11:46
+INC0000025,10/30/2019 16:53,Need to add more memory to laptop,Don Goodliffe,1 - Critical,In Progress,Hardware,Hardware,ITIL User,5/5/2020 11:45,system,11/22/2019 15:55
+INC0000018,11/7/2019 15:42,Sales forecast spreadsheet is READ ONLY,Taylor Vreeland,1 - Critical,In Progress,,Software,,5/5/2020 11:39,system,11/22/2019 15:42
+INC0000003,11/21/2019 15:07,Wireless access is down in my area,Joe Employee,1 - Critical,In Progress,Network,Network,,5/5/2020 11:39,system,2/27/2020 16:14
+INC0010063,5/5/2020 11:32,help desk page redirects on load,Fred Luddy,5 - Planning,New,Network,Service Desk,,5/5/2020 11:34,admin,5/5/2020 11:34
+INC0010062,5/5/2020 11:32,We need faster internet,Amelia Caputo,5 - Planning,New,Network,Network,,5/5/2020 11:32,admin,5/5/2020 11:32
+INC0010060,5/5/2020 11:29,Excel is giving an error on start up,Fred Luddy,5 - Planning,New,Software,Software,,5/5/2020 11:31,admin,5/5/2020 11:31
+INC0010059,5/5/2020 11:28,Unable to add transition animations to Powerpoint,Freeman Soula,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 11:29,admin,5/5/2020 11:29
+INC0010058,5/5/2020 11:26,office 365 is down,Gayla Geimer,5 - Planning,New,Software,Software,,5/5/2020 11:29,admin,5/5/2020 11:29
+INC0010057,5/5/2020 11:24,Unable to access database,Fred Luddy,5 - Planning,New,Database,Database,,5/5/2020 11:27,admin,5/5/2020 11:27
+INC0000007,8/12/2015 16:08,Need access to sales DB for the West,Joe Employee,1 - Critical,On Hold,Database,Database,,5/5/2020 11:26,system,3/10/2014 13:43
+INC0010056,5/5/2020 11:24,Need a new mousepad,Bert Schadle,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 11:24,admin,5/5/2020 11:24
+INC0010055,5/5/2020 11:23,Unable to access webpage,Fred Kunde,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 11:24,admin,5/5/2020 11:24
+INC0010054,5/5/2020 11:19,I spilled juice on my computer,Amelia Caputo,5 - Planning,New,Hardware,Hardware,,5/5/2020 11:19,admin,5/5/2020 11:19
+INC0010053,5/5/2020 11:13,Program gives error code 43434,Athena Fontanilla,5 - Planning,New,Software,Software,,5/5/2020 11:18,admin,5/5/2020 11:18
+INC0010052,5/5/2020 11:12,My computer froze,Sam Sorokin,5 - Planning,New,Hardware,Hardware,,5/5/2020 11:15,admin,5/5/2020 11:15
+INC0010051,5/5/2020 10:56,Servers are down for sharing files,Bert Schadle,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 10:57,admin,5/5/2020 10:57
+INC0010049,5/5/2020 10:53,I wan't a new work phone,Athena Fontanilla,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:56,admin,5/5/2020 10:56
+INC0010050,5/5/2020 10:53,Wireless Router Not Functioning,Bert Schadle,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 10:53,admin,5/5/2020 10:53
+INC0010047,5/5/2020 10:52,My cables are broken for my monitor,Alejandra Prenatt,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:53,admin,5/5/2020 10:53
+INC0010046,5/5/2020 10:51,passwords should be required for computers,Amelia Caputo,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 10:52,admin,5/5/2020 10:51
+INC0010045,5/5/2020 10:46,We need more antivirus software,Sam Sorokin,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:51,admin,5/5/2020 10:51
+INC0010044,5/5/2020 10:46,documents aren't being shared properly,Fred Luddy,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 10:46,admin,5/5/2020 10:46
+INC0010043,5/5/2020 10:44,Word needs an update,Sam Sorokin,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 10:45,admin,5/5/2020 10:45
+INC0010042,5/5/2020 10:41,I need keyboard cleaner,Bow Ruggeri,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:42,admin,5/5/2020 10:42
+INC0010041,5/5/2020 10:39,Hacker is in the mainframe,Sam Sorokin,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:40,admin,5/5/2020 10:40
+INC0010040,5/5/2020 10:38,SQL injection,Annabelle Coger,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:39,admin,5/5/2020 10:39
+INC0010039,5/5/2020 10:38,Printer out of ink,Amelia Caputo,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:38,admin,5/5/2020 10:38
+INC0000015,11/6/2019 15:38,I can't launch my VPN client since the last software update,Fred Luddy,1 - Critical,In Progress,Software,Network,,5/5/2020 10:35,system,11/22/2019 15:40
+INC0010037,5/5/2020 10:31,I need a new floor mat,Gayla Geimer,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:32,admin,5/5/2020 10:32
+INC0010036,5/5/2020 10:29,My phone doesn't make noise when ringing,Annabelle Coger,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:29,admin,5/5/2020 10:29
+INC0010035,5/5/2020 10:28,My computer has a virus,Bow Ruggeri,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:29,admin,5/5/2020 10:29
+INC0010034,5/5/2020 10:25,i want to bring a keyboard from home,Sam Sorokin,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:28,admin,5/5/2020 10:28
+INC0010033,5/5/2020 10:22,Speakers won't work,Annabelle Coger,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:25,admin,5/5/2020 10:25
+INC0010032,5/5/2020 10:21,Somebody was on my computer and it wasn't me,Annabelle Coger,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:21,admin,5/5/2020 10:21
+INC0010031,5/5/2020 10:19,My computer fans are running very loud,Athena Fontanilla,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:20,admin,5/5/2020 10:20
+INC0010030,5/5/2020 10:19,I want a new keyboard,Vivian Brzostowski,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:19,admin,5/5/2020 10:19
+INC0010029,5/5/2020 10:17,I want to download an app that is blocked,Gayla Geimer,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:18,admin,5/5/2020 10:18
+INC0009004,9/1/2018 6:13,Defect tracking tool is down.,David Miller,3 - Moderate,New,Software,Network,,5/5/2020 10:17,admin,9/1/2018 6:14
+INC0009001,9/11/2018 20:56,Unable to post content on a Wiki page,David Miller,3 - Moderate,New,Inquiry / Help,Service Desk,,5/5/2020 10:16,admin,9/11/2018 20:57
+INC0000601,2/16/2020 1:42,The USB port on my PC stopped working,Beth Anglin,5 - Planning,New,Hardware,Hardware,,5/5/2020 10:13,admin,2/16/2020 1:43
+INC0010015,4/8/2020 14:10,DoS attack,Vivian Brzostowski,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:13,admin,4/8/2020 14:10
+INC0000058,8/10/2016 9:37,Performance problems with email,Bow Ruggeri,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 10:13,admin,8/10/2016 9:37
+INC0010022,5/5/2020 9:14,Need Help Resetting Password,Tami Trybus,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:13,admin,5/5/2020 9:14
+INC0010012,4/8/2020 13:53,Can't access some program,Annabelle Coger,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:13,admin,4/8/2020 13:56
+INC0010009,4/8/2020 13:50,Wifi slow on laptop,System Administrator,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 10:13,admin,4/8/2020 13:50
+INC0010008,4/8/2020 13:49,Wifi slow on laptop,Abel Tuter,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 10:12,admin,4/8/2020 13:50
+INC0010004,4/8/2020 13:25,Monitor has issues,System Administrator,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:12,admin,4/8/2020 13:43
+INC0009005,8/31/2018 21:35,Email server is down.,David Miller,1 - Critical,New,Software,Network,,5/5/2020 10:12,admin,8/31/2018 21:35
+INC0010016,4/8/2020 14:10,ddos attacks,System Administrator,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:12,admin,4/8/2020 14:10
+INC0000048,11/2/2015 14:05,Having problems with Sales Tools performance,Luke Wilson,4 - Low,On Hold,,Service Desk,ITIL User,5/5/2020 10:12,admin,11/2/2015 14:06
+INC0009002,9/16/2018 5:49,My computer is not detecting the headphone device,David Miller,3 - Moderate,New,Hardware,Hardware,,5/5/2020 10:12,admin,9/16/2018 5:50
+INC0000012,11/5/2019 15:07,Customer didn't receive eFax,Don Goodliffe,5 - Planning,In Progress,Software,Database,David Loo,5/5/2020 10:12,admin,12/3/2019 15:11
+INC0010014,4/8/2020 14:05,My password was stolen,Vivian Brzostowski,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:10,admin,4/8/2020 14:06
+INC0010013,4/8/2020 13:56,SQL injection issue,Athena Fontanilla,5 - Planning,New,Inquiry / Help,IT Securities,,5/5/2020 10:10,admin,4/8/2020 14:05
+INC0010011,4/8/2020 13:51,cannot send files through outlook,Amelia Caputo,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:09,admin,4/8/2020 13:53
+INC0000044,11/22/2019 16:47,Can't log into SAP from my laptop today,Joe Employee,2 - High,In Progress,,Software,Fred Luddy,5/5/2020 10:09,admin,11/22/2019 16:47
+INC0010010,4/8/2020 13:50,Windows needs to be activated,Fred Kunde,5 - Planning,New,Inquiry / Help,Service Desk,,5/5/2020 10:09,admin,4/8/2020 13:51
+INC0000059,8/10/2016 9:14,Unable to access team file share,Rick Berzle,3 - Moderate,New,Inquiry / Help,Network,,5/5/2020 10:08,admin,8/10/2016 9:14
+INC0010005,4/8/2020 13:43,Printer giving error,Annabelle Coger,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 10:06,admin,4/8/2020 13:47
+INC0009009,8/30/2018 1:06,Unable to access the shared folder.,David Miller,4 - Low,New,Inquiry / Help,Service Desk,,5/5/2020 10:06,admin,8/30/2018 1:06
+INC0009003,8/30/2018 2:17,Cannot sign into the company portal app,David Miller,3 - Moderate,New,Inquiry / Help,Software,,5/5/2020 10:05,admin,8/30/2018 2:18
+INC0010027,5/5/2020 9:42,New employee hire,Fred Luddy,5 - Planning,Resolved,Inquiry / Help,Hardware,Beth Anglin,5/5/2020 10:05,admin,5/5/2020 9:43
+INC0007002,10/16/2018 22:47,Need access to the common drive.,David Miller,4 - Low,New,Inquiry / Help,Service Desk,,5/5/2020 10:03,admin,10/16/2018 22:48
+INC0000060,12/12/2016 7:19,Unable to connect to email,Joe Employee,3 - Moderate,In Progress,Inquiry / Help,Network,Fred Luddy,5/5/2020 10:03,admin,12/12/2016 7:19
+INC0000057,8/10/2016 9:14,Performance problems with wifi,Bertie Luby,5 - Planning,New,Inquiry / Help,Network,,5/5/2020 9:57,admin,8/10/2016 9:14
+INC0000041,11/22/2019 16:44,My desk phone does not work,Bow Ruggeri,3 - Moderate,In Progress,Hardware,Hardware,ITIL User,5/5/2020 9:48,admin,11/22/2019 16:45
+INC0000040,11/22/2019 16:42,JavaScript error on hiring page of corporate website,Bud Richman,3 - Moderate,On Hold,Inquiry / Help,Service Desk,,5/5/2020 9:47,admin,11/22/2019 16:43
+INC0000027,11/18/2019 15:55,Please remove the latest hotfix from my PC,Fred Luddy,2 - High,In Progress,Software,Software,ITIL User,5/5/2020 9:45,admin,11/22/2019 15:59
+INC0000020,11/19/2019 15:51,"I need a replacement iPhone, please",Fred Luddy,5 - Planning,In Progress,Inquiry / Help,Hardware,ITIL User,5/5/2020 9:40,admin,11/22/2019 15:51
+INC0000019,11/9/2019 15:44,Can't launch 64-bit Windows 7 virtual machine,Fred Luddy,2 - High,In Progress,Software,Service Desk,Bud Richman,5/5/2020 9:40,admin,11/22/2019 15:45
+INC0010026,5/5/2020 9:34,Missing my home directory,Bow Ruggeri,1 - Critical,Closed,Inquiry / Help,Service Desk,Bud Richman,5/5/2020 9:37,admin,5/5/2020 9:37
+INC0010024,5/5/2020 9:22,Application Is Frozen. Can't move cursor,Gayla Geimer,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 9:22,admin,5/5/2020 9:22
+INC0010021,5/5/2020 9:12,My VPN Stopped Working,Sam Sorokin,5 - Planning,New,Inquiry / Help,Software,,5/5/2020 9:13,admin,5/5/2020 9:12
+INC0010020,5/5/2020 9:11,My USB Port Does Not Read Drive,Vivian Brzostowski,5 - Planning,New,Inquiry / Help,Hardware,,5/5/2020 9:12,admin,5/5/2020 9:12
+INC0010003,4/8/2020 12:54,Monitor won't turn on,Fred Kunde,1 - Critical,Closed,Hardware,Service Desk,David Loo,4/15/2020 14:21,system,4/8/2020 12:57
+INC0000005,11/16/2019 15:06,CPU load high for over 10 minutes,Alejandro Mascall,1 - Critical,Closed,Hardware,Hardware,Bud Richman,2/21/2020 13:05,system,6/25/2018 8:14
+INC0000010,11/21/2019 14:53,Need Oracle 10GR2 installed,Fred Luddy,4 - Low,Closed,Database,Database,Don Goodliffe,2/20/2020 12:16,admin,12/3/2019 14:54
+INC0000004,11/27/2019 14:49,Forgot email password,Fred Luddy,1 - Critical,Closed,Inquiry / Help,Service Desk,Bud Richman,2/20/2020 12:16,admin,6/21/2018 15:34
+INC0000035,11/30/2019 16:32,Reset my password,Natasha Ingram,5 - Planning,Closed,Inquiry / Help,Service Desk,Luke Wilson,2/20/2020 12:16,admin,12/3/2019 16:33
+INC0000001,11/20/2019 15:09,Can't read email,Fred Luddy,1 - Critical,Closed,Network,Service Desk,Charlie Whitherspoon,2/20/2020 12:16,admin,6/21/2018 11:24
+INC0000009,11/27/2019 14:50,Reset my password,Rick Berzle,1 - Critical,Closed,Inquiry / Help,Service Desk,David Loo,2/20/2020 12:16,admin,12/3/2019 14:51
+INC0000008,11/28/2019 15:08,Printer in my office is out of toner,Joe Employee,1 - Critical,Closed,Inquiry / Help,Hardware,ITIL User,2/20/2020 12:16,admin,6/18/2018 13:43
+INC0000006,11/20/2019 15:08,Hangs when trying to print VISIO document,Joe Employee,1 - Critical,Closed,Software,Software,Howard Johnson,2/20/2020 12:15,admin,6/18/2018 13:42
+INC0000032,11/12/2019 16:19,EMAIL Server Down Again,Joe Employee,5 - Planning,Closed,Inquiry / Help,Hardware,David Loo,2/20/2020 12:15,admin,12/3/2019 16:20
+INC0000024,12/3/2019 15:52,Issue with a web page on wiki,Fred Luddy,5 - Planning,Closed,Inquiry / Help,Service Desk,ITIL User,2/20/2020 12:15,admin,12/3/2019 15:53
+INC0000030,11/28/2019 16:01,Lost connection to the wireless network,Rick Berzle,5 - Planning,Closed,Hardware,Network,David Loo,2/20/2020 12:15,admin,12/3/2019 16:02
+INC0000026,11/4/2019 15:54,Seem to have an issue with my hard drive...,Rick Berzle,5 - Planning,Closed,Hardware,Hardware,Don Goodliffe,2/20/2020 12:15,admin,12/3/2019 15:56
+INC0000028,11/13/2019 15:58,My disk is still having issues. Can't delete a file,Rick Berzle,5 - Planning,Closed,Inquiry / Help,Service Desk,Don Goodliffe,2/20/2020 12:15,admin,12/3/2019 15:58
+INC0000033,11/6/2019 14:22,File Server is 80% full - Needs upgrade,David Loo,1 - Critical,Closed,Inquiry / Help,Hardware,Don Goodliffe,2/20/2020 12:15,admin,12/3/2019 16:23
+INC0000036,11/27/2019 16:33,Issue with networking,Carol Coughlin,5 - Planning,Closed,Inquiry / Help,Network,Luke Wilson,2/20/2020 11:57,admin,12/3/2019 16:34
+INC0000038,11/27/2019 16:36,my PDF docs are all locked from editing,Bow Ruggeri,4 - Low,Closed,Software,Service Desk,Luke Wilson,2/20/2020 11:57,admin,12/3/2019 16:38
+INC0000011,11/28/2019 15:01,Need new Blackberry set up,Don Goodliffe,3 - Moderate,Closed,Inquiry / Help,Hardware,ITIL User,2/20/2020 11:56,admin,12/3/2019 15:02
+INC0000013,12/2/2019 15:15,EMAIL is slow when an attachment is involved,Joe Employee,1 - Critical,Closed,Inquiry / Help,Software,David Loo,2/20/2020 11:54,admin,12/3/2019 15:18
+INC0000034,11/3/2019 12:25,Does not look like a backup occurred last night,Rick Berzle,1 - Critical,Closed,Software,Software,David Loo,2/20/2020 11:53,admin,11/22/2019 16:26
+INC0000049,1/30/2020 13:56,Network storage unavailable,Beth Anglin,2 - High,In Progress,Network,Hardware,Don Goodliffe,2/20/2020 11:52,admin,1/30/2020 10:05
+INC0000047,1/30/2020 12:53,Issue with email,Joe Employee,3 - Moderate,In Progress,Inquiry / Help,Software,Beth Anglin,2/20/2020 11:51,admin,1/30/2020 12:53
+INC0000037,11/22/2019 16:34,Request for a new service,Sam Sorokin,3 - Moderate,In Progress,Inquiry / Help,Service Desk,Howard Johnson,2/20/2020 11:51,admin,11/22/2019 16:35
+INC0000016,11/1/2019 16:40,Rain is leaking on main DNS Server,Bow Ruggeri,1 - Critical,In Progress,Hardware,Hardware,ITIL User,2/20/2020 11:51,admin,11/22/2019 15:41
+INC0000002,11/14/2019 15:07,Network file shares access issue,Fred Luddy,1 - Critical,On Hold,Network,Network,Howard Johnson,2/20/2020 11:51,admin,6/10/2018 15:30
+INC0000029,11/20/2019 16:00,I can't get my weather report,Charlie Whitherspoon,5 - Planning,In Progress,Inquiry / Help,Service Desk,Don Goodliffe,2/20/2020 11:50,admin,11/22/2019 16:01
+INC0000050,1/30/2020 13:58,Can't access Exchange server - is it down?,Jerrod Bennett,1 - Critical,In Progress,Hardware,Hardware,Beth Anglin,2/20/2020 11:49,admin,1/30/2020 10:05
+INC0000053,1/30/2020 12:48,The SAP HR application is not accessible,Margaret Grey,1 - Critical,In Progress,Inquiry / Help,Software,Beth Anglin,2/20/2020 11:42,admin,1/30/2020 12:48
+INC0000051,1/30/2020 12:48,Manager can't access SAP Controlling application,Joe Employee,1 - Critical,In Progress,Software,Software,Don Goodliffe,2/20/2020 11:40,admin,1/30/2020 12:48
+INC0000039,11/22/2019 16:41,Trouble getting to Oregon mail server,Bud Richman,5 - Planning,New,Network,Network,,2/20/2020 11:39,admin,11/22/2019 16:42
+INC0000055,1/30/2020 20:47,SAP Sales app is not accessible,Carol Coughlin,1 - Critical,In Progress,,Service Desk,Beth Anglin,2/13/2020 15:08,admin,1/30/2020 20:49
+INC0000052,1/30/2020 12:48,SAP Financial Accounting application appears to be down,Bud Richman,1 - Critical,In Progress,Software,Software,Fred Luddy,2/13/2020 13:50,system,1/30/2020 12:48
+INC0000046,1/30/2020 14:04,Can't access SFA software,Bud Richman,3 - Moderate,New,Software,Software,,1/29/2020 14:37,glide.maint,1/29/2020 14:05
+INC0007001,10/16/2018 22:47,Employee payroll application server is down.,David Miller,1 - Critical,New,Hardware,Hardware,,12/12/2018 23:26,admin,10/16/2018 22:47
+INC0000054,11/2/2015 12:49,SAP Materials Management is slow or there is an outage,Christen Mitchell,1 - Critical,On Hold,Software,Service Desk,,11/24/2015 7:47,admin,11/2/2015 12:49
+INC0000017,8/12/2015 16:41,How do I create a sub-folder,Joe Employee,1 - Critical,On Hold,Inquiry / Help,Service Desk,Fred Luddy,11/24/2015 7:47,admin,8/25/2015 16:41
